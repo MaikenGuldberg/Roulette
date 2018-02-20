@@ -51,6 +51,7 @@
     <Compile Include="Roulette.cs" />
     <Compile Include="RouletteGame.cs" />
     <Compile Include="RouletteGameTestApplication.cs" />
+    <Compile Include="TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
